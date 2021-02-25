@@ -1,0 +1,108 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.apps-header {
+	background-color: #f9f9f9;
+}
+
+.app-lt {
+	//border: 1px solid red;
+}
+
+.app-lt1 {
+	display: inline-block;
+}
+
+.app-lta {
+	font-weight: 700;
+	font-size: 12px;
+	color: #5d5a5b;
+	line-height: 30px;
+	//margin-right: 22px;
+}
+
+.app-ltb {
+	float: right;
+	line-height: 30px;
+	color: #000;
+	font-size: 12px;
+}
+
+.app-ltb a {
+	font-size: 12px;
+	text-decoration: none;
+}
+
+.app-lta a {
+  color: #d80027;
+  text-decoration: none;
+}
+
+.app-lt-logo {
+	width: 28px;
+	float: left;
+}
+
+.app-lt-logout {
+	margin-top: 8px;
+	width: 20px;
+	float: right;
+}
+
+.link-load {
+	color: #444;
+	text-decoration: none;
+}
+
+#app-title {
+	display: inline-block;
+	float: left;
+}
+
+#app-top-nav {
+	display: inline-block;
+	float: right;
+}
+
+#app-top-nav a {
+	text-decoration: none;
+	color: #444;
+}
+
+#apps-contents-wrapper {
+	padding: 10px;
+
+}
+
+#apps-contents {
+	margin-top: 5px;
+	border: 1px solid #ddd;
+	padding: 10px;
+}
+
+#app-tb1 {
+	border: 1px solid #ddd;
+}
+
+.dataTables_length {
+	margin-bottom: 15px;
+}
+
+.app-footer {
+	position: relative;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	height: 60px;
+}
+
+.footer-text {
+	padding: 10px 25px;
+}
+
+input[type="search"] {
+	padding: 0px 2px;
+}
+

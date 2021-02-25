@@ -1,0 +1,66 @@
+Flow process
+
+1. Upload dokumen, PDF
+2. One file once
+3. Filename generate MD5_id (get id from dokap table)
+
+
+Status
+
+[1] Upload from PPJK/Importir
+[2] PIB (documents) sent to Pendok
+[3] Pendok take the PIB (documents)
+[4] Diterima PFPD
+[5] Diterima PFPD + Konfirmasi dari PFPD
+
+[40] PIB reject by Pendok
+
+
+Validation
+
+1. Can't upload more than one PIB into database, 
+check before upload whether the PIB already exist in database and the status.
+If status 1 then upload gtanted, if more than 1 then reject!
+
+2. etc..
+
+Users
+
+[1] Administrator
+[2] PPJK/Importir
+[3] Pendok
+[4] PFPD
+[5] Bea dan Cukai (Browse All)
+
+Browse
+
+[1] Browse All PPJK/IMPORTIR (status)
+[2] Browse PENDOK
+[3] Browse PENDOK ALL
+[4] Browse PFPD
+[5] Browse PFPD ALL
+
+Log aktifitas
+
+[UPLOAD] -> [UPLOAD DOKUMEN PADA TABEL DOKAP ROW ...]
+[EDIT] -> [EDIT DOKUMEN PADA TABEL DOKAP ROW ...]
+[REMOVE] -> [REMOVE DOKUMEN PADA TABEL DOKAP ROW ...]
+
+[DIKIRIM] -> [DOKUMEN DIKIRIM]
+[DIAMBIL] -> [DOKUMEN DIAMBIL OLEH PEMERIKSA DOKUMEN]
+[PEMERIKSAAN] -> [DOKUMEN DIPERIKSA OLEH PEMERIKSA DOKUMEN]
+[DITERIMA] -> [DOKUMEN DITERIMA]
+[REJECT] -> [REJECTED, KARENA ...]
+
+Akun Pengguna Jasa
+
+Username		: admin.dhl
+Password		: .........
+Nama			: ?
+NIP 			: NPWP
+Unit/seksi		: DHL
+Pangkat/Gol.	: -
+Jabatan			: Administrator Dokumen Pelengkap
+Level			: Pengguna Jasa [2]
+
+

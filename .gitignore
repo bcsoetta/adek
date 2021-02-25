@@ -1,0 +1,6 @@
+# Folders to ignore
+/uploads/*
+
+# Files to ignore
+/ajax/ajax_conn.php
+/config/config.php

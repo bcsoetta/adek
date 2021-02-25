@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 496 496" style="enable-background:new 0 0 496 496;" xml:space="preserve">
+<rect x="80" y="8" style="fill:#FFCB57;" width="408" height="64"/>
+<rect x="456" y="8" style="fill:#F2BE55;" width="32" height="64"/>
+<rect x="80" y="72" style="fill:#EFE7E4;" width="408" height="192"/>
+<rect x="456" y="72" style="fill:#D8D1D0;" width="32" height="192"/>
+<g>
+	<path style="fill:#684621;" d="M496,272H72V0h424V272z M88,256h392V16H88V256z"/>
+	<rect x="104" y="32" style="fill:#684621;" width="16" height="16"/>
+	<rect x="136" y="32" style="fill:#684621;" width="16" height="16"/>
+	<rect x="168" y="32" style="fill:#684621;" width="16" height="16"/>
+	<rect x="80" y="64" style="fill:#684621;" width="408" height="16"/>
+</g>
+<rect x="112" y="104" style="fill:#FFCB57;" width="192" height="96"/>
+<rect x="280" y="104" style="fill:#F2BE55;" width="24" height="96"/>
+<path style="fill:#684621;" d="M312,208H104V96h208V208z M120,192h176v-80H120V192z"/>
+<path style="fill:#EFE7E4;" d="M256,424H40c-17.672,0-32,14.328-32,32l0,0c0,17.672,14.328,32,32,32h216V424z"/>
+<rect x="216" y="424" style="fill:#D8D1D0;" width="40" height="64"/>
+<g>
+	<path style="fill:#684621;" d="M264,496H40c-22.056,0-40-17.944-40-40s17.944-40,40-40h224V496z M40,432c-13.232,0-24,10.768-24,24
+		s10.768,24,24,24h208v-48H40z"/>
+	<rect x="40" y="448" style="fill:#684621;" width="16" height="16"/>
+	<rect x="72" y="448" style="fill:#684621;" width="160" height="16"/>
+</g>
+<path style="fill:#FFCB57;" d="M256,360H40c-17.672,0-32,14.328-32,32l0,0c0,17.672,14.328,32,32,32h216V360z"/>
+<rect x="216" y="360" style="fill:#F2BE55;" width="40" height="64"/>
+<g>
+	<path style="fill:#684621;" d="M264,432H40c-22.056,0-40-17.944-40-40s17.944-40,40-40h224V432z M40,368c-13.232,0-24,10.768-24,24
+		s10.768,24,24,24h208v-48H40z"/>
+	<rect x="40" y="384" style="fill:#684621;" width="16" height="16"/>
+	<rect x="72" y="384" style="fill:#684621;" width="160" height="16"/>
+</g>
+<path style="fill:#EFE7E4;" d="M256,296H40c-17.672,0-32,14.328-32,32l0,0c0,17.672,14.328,32,32,32h216V296z"/>
+<rect x="216" y="296" style="fill:#D8D1D0;" width="40" height="64"/>
+<g>
+	<path style="fill:#684621;" d="M264,368H40c-22.056,0-40-17.944-40-40s17.944-40,40-40h224V368z M40,304c-13.232,0-24,10.768-24,24
+		s10.768,24,24,24h208v-48H40z"/>
+	<rect x="40" y="320" style="fill:#684621;" width="16" height="16"/>
+	<rect x="72" y="320" style="fill:#684621;" width="160" height="16"/>
+</g>
+<path style="fill:#66ADDD;" d="M256,232H40c-17.672,0-32,14.328-32,32l0,0c0,17.672,14.328,32,32,32h216V232z"/>
+<rect x="216" y="232" style="fill:#5B9DC1;" width="40" height="64"/>
+<g>
+	<path style="fill:#684621;" d="M264,304H40c-22.056,0-40-17.944-40-40s17.944-40,40-40h224V304z M40,240c-13.232,0-24,10.768-24,24
+		s10.768,24,24,24h208v-48H40z"/>
+	<rect x="40" y="256" style="fill:#684621;" width="16" height="16"/>
+	<rect x="72" y="256" style="fill:#684621;" width="160" height="16"/>
+</g>
+<polygon style="fill:#FFCB57;" points="472,232 400,152 328,232 360,232 360,488 440,488 440,232 "/>
+<polygon style="fill:#F2BE55;" points="472,232 416,169.776 416,488 440,488 440,232 "/>
+<path style="fill:#684621;" d="M448,496h-96V240h-41.96L400,140.04L489.96,240H448V496z M368,480h64V224h22.04L400,163.96
+	L345.96,224H368V480z"/>
+<polygon style="fill:#66ADDD;" points="424,368 352,288 280,368 312,368 312,488 392,488 392,368 "/>
+<polygon style="fill:#5B9DC1;" points="424,368 368,305.776 368,488 392,488 392,368 "/>
+<path style="fill:#684621;" d="M400,496h-96V376h-41.96L352,276.04L441.96,376H400V496z M320,480h64V360h22.04L352,299.96
+	L297.96,360H320V480z"/>
+<g>
+	<rect x="336" y="448" style="fill:#EFE7E4;" width="16" height="16"/>
+	<rect x="336" y="360" style="fill:#EFE7E4;" width="16" height="72"/>
+	<rect x="384" y="280" style="fill:#EFE7E4;" width="16" height="16"/>
+	<rect x="384" y="224" style="fill:#EFE7E4;" width="16" height="40"/>
+	<rect x="136" y="128" style="fill:#EFE7E4;" width="16" height="16"/>
+	<rect x="168" y="128" style="fill:#EFE7E4;" width="96" height="16"/>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+</svg>
